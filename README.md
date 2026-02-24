@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I'm a tech enthusiast and lifelong learner exploring code, data, and hands-on projects to build, share, and grow.
+
+
+## 🌱 I’m currently learning ...
+
+- SQL
+- XML/XSD/XSLT
+- Data Analysis
+- Tech Projects
+
 <!--
 **devropz/DEVROPZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
